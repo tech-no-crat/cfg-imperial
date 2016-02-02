@@ -22,6 +22,8 @@ class: middle, center
 
 # Recap
 
+---
+
 **Structure of an HTML document:**
 
 ```html
@@ -35,6 +37,8 @@ class: middle, center
   </html>
 ```
 
+---
+
 **Things to remember:**
 
 - The last tag open is the first one you must close
@@ -45,8 +49,9 @@ class: middle, center
 - Sometimes that person could be you! 
 - Just ignore the notification to buy Sublime 
 
-**Plus:** a useful link - [HTML validator] (http://validator.w3.org/#validate_by_input)
+**Plus:** a useful link - [HTML validator](http://validator.w3.org/#validate_by_input)
 
+---
 
 # Additional Resources 
 
@@ -56,5 +61,5 @@ class: middle, center
 - [Flat UI Color Picker](http://www.flatuicolorpicker.com/all)
 - [Verify CSS](http://jigsaw.w3.org/css-validator/#validate_by_input)
 
-
+---
 
