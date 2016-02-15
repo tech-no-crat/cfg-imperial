@@ -1,6 +1,6 @@
 class: middle, center
 
-# Session 5: Bootstrap & JQuery
+# Session 4: Bootstrap & JQuery
 CodeFirst: Girls
 
 ---
