@@ -8,8 +8,8 @@ CodeFirst: Girls
 # Goals
 - HTML
 - CSS
-- Git
 - Bootstrap
+- Git
 
 ---
 class: middle, center
@@ -118,3 +118,10 @@ class: middle, center
 
 ---
 
+# Git
+
+* Collaboration made easy (once you get the hang of it)
+* Track changes
+* Share work
+* Permit different work to progress in parallel on seperate 'branches' before 'merging'
+* Review change history
